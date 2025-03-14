@@ -17,3 +17,11 @@ https://github.com/c108252115/new/edit/main/README.md#%E6%99%BA%E6%85%A7%E5%9F%8
 <img src="githubhelp.png" width="150" Height="150" />
 <br>
  
+
+
+| 項次 | 項目 | 內容 |
+|----:|------|------|
+| 1 | 圖片 | <img src="people.jpg" width="100" Height="100" /> |
+| 2 | 姓名 | 蔡正雄 |
+| 3 | 職稱 | 資訊室經理 |
+| 3 | 任職公司 | 中鋼保全 |

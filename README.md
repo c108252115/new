@@ -31,8 +31,8 @@ https://github.com/c108252115/new/edit/main/README.md#%E6%99%BA%E6%85%A7%E5%9F%8
 _____________________
 
 觀看影片一
-<a href="https://www.youtube.com/watch?v=_4Zfeq0yad5E" target="_blank">Josh Levi - FEEL THE BA$S [Official Visualizer]</a><br>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=_4Zfeq0yad5E" target="_blank"><img src="http://img.youtube.com/vi/_4Zfeq0yad5E/0.jpg" 
+<a href="https://www.youtube.com/watch?v=4Zfeq0yad5E" target="_blank">Josh Levi - FEEL THE BA$S [Official Visualizer]</a><br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=4Zfeq0yad5E" target="_blank"><img src="http://img.youtube.com/vi/4Zfeq0yad5E/0.jpg" 
 alt="Josh Levi - FEEL THE BA$S [Official Visualizer]" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
 

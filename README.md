@@ -32,8 +32,8 @@ _____________________
 
 觀看影片一
 <a href="https://www.youtube.com/watch?v=4Zfeq0yad5E" target="_blank">Josh Levi - FEEL THE BA$S [Official Visualizer]</a><br>
-<a href="https://www.youtube.com/watch?v=feature=player_embedded&v=_4Zfeq0yad5E" target="_blank"><img src="http://img.youtube.com/vi/_fL85yFLZGg/0.jpg" 
-alt="倫敦智慧城市" width="400" height="250" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=feature=player_embedded&v=4Zfeq0yad5E" target="_blank"><img src="http://img.youtube.com/vi/4Zfeq0yad5E/0.jpg" 
+alt="打造智慧城市 從改變交通方式著手" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
 
 <br><br><br>

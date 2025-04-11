@@ -2,7 +2,7 @@
 <img src="c108252115.png" width="150" Height="150" />
 <br>
  
-
+<details>
 
 | 項次 | 項目 | 內容 |
 |----:|------|------|
@@ -12,9 +12,9 @@
 | 4 | 任職公司 | 高科 |
 | 5 | 喜好 | 音樂 |
 
-
+</details>
 _____________________
-<details></details>
+<details>
 觀看影片一
 <a href="https://www.youtube.com/watch?v=4Zfeq0yad5E" target="_blank">Josh Levi - FEEL THE BA$S [Official Visualizer]</a><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=4Zfeq0yad5E" target="_blank"><img src="http://img.youtube.com/vi/4Zfeq0yad5E/0.jpg" 

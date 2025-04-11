@@ -31,8 +31,8 @@ alt="Josh Levi - FEEL THE BA$S [Official Visualizer]" width="400" height="250" b
 <br><br><br>
 
 觀看影片三
-<a href="https://www.youtube.com/watch?v=4Zfeq0yad5E" target="_blank">Josh Levi - FEEL THE BA$S [Official Visualizer]</a><br>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=4Zfeq0yad5E" target="_blank"><img src="http://img.youtube.com/vi/4Zfeq0yad5E/0.jpg" 
+<a href="https://www.youtube.com/watch?v=KanUmwWDsV0" target="_blank">Josh Levi - FEEL THE BA$S [Official Visualizer]</a><br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=KanUmwWDsV0" target="_blank"><img src="http://img.youtube.com/vi/KanUmwWDsV0/0.jpg" 
 alt="Josh Levi - FEEL THE BA$S [Official Visualizer]" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
 
